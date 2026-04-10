@@ -1,3 +1,9 @@
+---
+layout: page
+title: プライバシーポリシー
+permalink: /privacy_policy/
+---
+
 # プライバシーポリシー
 
 最終更新日: 2026年4月9日
