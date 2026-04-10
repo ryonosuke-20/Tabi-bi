@@ -5,7 +5,7 @@ theme: minima
 
 # GitHub Pages URL設定（リポジトリ名に合わせて変更してください）
 # 例: https://ryonosuke-20.github.io/tabi-bi-legal/
-baseurl: "/tabi-bi"
+baseurl: "/Tabi-bi"
 url: "https://ryonosuke-20.github.io"
 
 markdown: kramdown
