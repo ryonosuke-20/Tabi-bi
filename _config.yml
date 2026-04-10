@@ -1,0 +1,22 @@
+title: Tabi-bi
+description: 旅行計画・費用精算アプリ「Tabi-bi」
+lang: ja
+theme: minima
+
+# GitHub Pages URL設定（リポジトリ名に合わせて変更してください）
+# 例: https://ryonosuke-20.github.io/tabi-bi-legal/
+baseurl: "/tabi-bi"
+url: "https://ryonosuke-20.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# フッターのSNSリンク等を非表示
+minima:
+  social_links: []
+
+# ヘッダーナビゲーションに表示するページ
+header_pages:
+  - terms_of_service.md
+  - privacy_policy.md
